@@ -13,8 +13,8 @@
   
   <dt>¿Cuáles son las características de React.js?</dt>
   <dd>Las principales características son: </dd>
-    1. Flujo de datos en un sentido </dd>
-    2. Utiliza JSX </dd>
-    3. HTML como detalle de implementación. Gracias a su virtual DOM es posible crear cualquier tipo de UI (Web, Móvil, TV, Canvas de HTML5, etc.)</dd>
-    4. Programación funcional e Inmutabilidad
+  <dd>1. Flujo de datos en un sentido </dd>
+  <dd>2. Utiliza JSX </dd>
+  <dd>3. HTML como detalle de implementación. Gracias a su virtual DOM es posible crear cualquier tipo de UI (Web, Móvil, TV, Canvas de HTML5, etc.)</dd>
+  <dd>4. Programación funcional e Inmutabilidad
 </dl>
